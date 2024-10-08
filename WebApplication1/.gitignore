@@ -1,1 +1,9 @@
-﻿.vs/
+﻿
+.vs/
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+packages/
+*.tmp
+*.temp
